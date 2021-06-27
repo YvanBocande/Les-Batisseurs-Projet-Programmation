@@ -1,0 +1,8 @@
+grue	2	0	0	0	1	0	1	0	1
+scie_circulaire	0	2	0	0	1	1	0	1	0
+instrument_de_mesure	0	0	3	0	2	1	0	0	2	
+four_a_tuiles	0	0	0	2	1	0	1	1	0
+grue	3	0	0	0	2	0	2	1	0
+scie_circulaire	0	3	0	0	2	0	0	2	1
+instrument_de_mesure	0	0	3	0	2	1	0	0	2
+four_a_tuiles	0	0	0	3	2	2	1	0	0
