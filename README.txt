@@ -3,9 +3,7 @@ I - Contenu du dossier
 Voici l'arborescence du dossier :
 
 	Les_Batisseurs
-	|-- Build ------> Contient le fichiers Build.xml
 	|-- data ------> contient les fichiers d'initialisation (ne pas toucher)
-	|-- build.xml ------> contient le fichier Build.xml
 	|-- Manuel_Utilisateur.pdf ------> Le manuel utilisateur qui permet de savoir comment utiliser l'application
 	|-- readMe.txt
 	|-- src
